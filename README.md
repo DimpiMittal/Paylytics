@@ -24,6 +24,19 @@ Paylytics is an interactive web application that provides salary insights and pr
 
 ---
 
+🚀 Live Demo
+Experience Paylytics in action! Click the link below to explore salary trends and predictions:
+🔗 Paylytics Live App
+
+---
+
+📌 How to Use?
+1️⃣ Navigate through salary insights & predictions
+2️⃣ Visualize salary trends with interactive charts
+3️⃣ Predict salaries based on experience, job type & company size
+
+---
+
 ## 📂 Project Structure
 ```
 Paylytics/
