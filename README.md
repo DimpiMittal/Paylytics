@@ -1,6 +1,5 @@
 # 💰 Paylytics - Salary Insights & Prediction
-
-![Paylytics Banner](https://your-image-url.com)  
+  
 
 ## 🚀 About Paylytics
 Paylytics is an interactive web application that provides salary insights and predicts salaries based on key factors such as **experience level, employment type, and company size**. Built using **Streamlit**, this application leverages **machine learning** to help users understand salary trends and make informed career decisions.
