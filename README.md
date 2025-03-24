@@ -21,6 +21,7 @@ Paylytics is an interactive web application that provides salary insights and pr
 - **Data Processing:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 - **Version Control:** Git & GitHub
+- **Cloud Deployment:** Streamlit Cloud 
 
 ---
 
